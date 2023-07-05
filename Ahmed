@@ -1,0 +1,11 @@
+# githoub
+Tremux
+pkg install git
+
+pkg install python
+
+git clone https://github.com/m4rktn/zeroeye
+ls
+cd zeroeye
+ls
+python dream.py
